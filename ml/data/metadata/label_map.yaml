@@ -1,0 +1,152 @@
+0:
+  class_name: Apple___Apple_scab
+  plant: Apple
+  condition: Apple_scab
+1:
+  class_name: Apple___Black_rot
+  plant: Apple
+  condition: Black_rot
+2:
+  class_name: Apple___Cedar_apple_rust
+  plant: Apple
+  condition: Cedar_apple_rust
+3:
+  class_name: Apple___healthy
+  plant: Apple
+  condition: healthy
+4:
+  class_name: Blueberry___healthy
+  plant: Blueberry
+  condition: healthy
+5:
+  class_name: Cherry_(including_sour)___Powdery_mildew
+  plant: Cherry_(including_sour)
+  condition: Powdery_mildew
+6:
+  class_name: Cherry_(including_sour)___healthy
+  plant: Cherry_(including_sour)
+  condition: healthy
+7:
+  class_name: Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+  plant: Corn_(maize)
+  condition: Cercospora_leaf_spot Gray_leaf_spot
+8:
+  class_name: Corn_(maize)___Common_rust_
+  plant: Corn_(maize)
+  condition: Common_rust_
+9:
+  class_name: Corn_(maize)___Northern_Leaf_Blight
+  plant: Corn_(maize)
+  condition: Northern_Leaf_Blight
+10:
+  class_name: Corn_(maize)___healthy
+  plant: Corn_(maize)
+  condition: healthy
+11:
+  class_name: Grape___Black_rot
+  plant: Grape
+  condition: Black_rot
+12:
+  class_name: Grape___Esca_(Black_Measles)
+  plant: Grape
+  condition: Esca_(Black_Measles)
+13:
+  class_name: Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+  plant: Grape
+  condition: Leaf_blight_(Isariopsis_Leaf_Spot)
+14:
+  class_name: Grape___healthy
+  plant: Grape
+  condition: healthy
+15:
+  class_name: Orange___Haunglongbing_(Citrus_greening)
+  plant: Orange
+  condition: Haunglongbing_(Citrus_greening)
+16:
+  class_name: Peach___Bacterial_spot
+  plant: Peach
+  condition: Bacterial_spot
+17:
+  class_name: Peach___healthy
+  plant: Peach
+  condition: healthy
+18:
+  class_name: Pepper,_bell___Bacterial_spot
+  plant: Pepper,_bell
+  condition: Bacterial_spot
+19:
+  class_name: Pepper,_bell___healthy
+  plant: Pepper,_bell
+  condition: healthy
+20:
+  class_name: Potato___Early_blight
+  plant: Potato
+  condition: Early_blight
+21:
+  class_name: Potato___Late_blight
+  plant: Potato
+  condition: Late_blight
+22:
+  class_name: Potato___healthy
+  plant: Potato
+  condition: healthy
+23:
+  class_name: Raspberry___healthy
+  plant: Raspberry
+  condition: healthy
+24:
+  class_name: Soybean___healthy
+  plant: Soybean
+  condition: healthy
+25:
+  class_name: Squash___Powdery_mildew
+  plant: Squash
+  condition: Powdery_mildew
+26:
+  class_name: Strawberry___Leaf_scorch
+  plant: Strawberry
+  condition: Leaf_scorch
+27:
+  class_name: Strawberry___healthy
+  plant: Strawberry
+  condition: healthy
+28:
+  class_name: Tomato___Bacterial_spot
+  plant: Tomato
+  condition: Bacterial_spot
+29:
+  class_name: Tomato___Early_blight
+  plant: Tomato
+  condition: Early_blight
+30:
+  class_name: Tomato___Late_blight
+  plant: Tomato
+  condition: Late_blight
+31:
+  class_name: Tomato___Leaf_Mold
+  plant: Tomato
+  condition: Leaf_Mold
+32:
+  class_name: Tomato___Septoria_leaf_spot
+  plant: Tomato
+  condition: Septoria_leaf_spot
+33:
+  class_name: Tomato___Spider_mites Two-spotted_spider_mite
+  plant: Tomato
+  condition: Spider_mites Two-spotted_spider_mite
+34:
+  class_name: Tomato___Target_Spot
+  plant: Tomato
+  condition: Target_Spot
+35:
+  class_name: Tomato___Tomato_Yellow_Leaf_Curl_Virus
+  plant: Tomato
+  condition: Tomato_Yellow_Leaf_Curl_Virus
+36:
+  class_name: Tomato___Tomato_mosaic_virus
+  plant: Tomato
+  condition: Tomato_mosaic_virus
+37:
+  class_name: Tomato___healthy
+  plant: Tomato
+  condition: healthy
